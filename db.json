@@ -1,22 +1,22 @@
 {
   "todos": [
     {
-      "id": 1,
       "title": "DSA",
-      "state": false
+      "status": false,
+      "id": 1
     },
     {
-      "title": "a",
+      "title": "React",
       "status": false,
       "id": 2
     },
     {
-      "title": "a",
+      "title": "Redux",
       "status": false,
       "id": 3
     },
     {
-      "title": "aaa",
+      "title": "React Router",
       "status": false,
       "id": 4
     }
